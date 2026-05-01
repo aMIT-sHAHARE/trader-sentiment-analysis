@@ -5,16 +5,6 @@ This project analyzes how market sentiment (Fear vs Greed) affects trader behavi
 
 ---
 
-## 📈 Visualization
-
-### PnL Distribution by Sentiment
-![PnL Distribution](charts/pnl_distribution.png)
-
-### Trade Direction (Long vs Short)
-![Long Short](charts/long_short.png)
-
----
-
 ## 📂 Dataset
 
 ### Sentiment Data
